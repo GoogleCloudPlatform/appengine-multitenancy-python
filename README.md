@@ -1,6 +1,6 @@
 ## Multitenancy Using Namespaces Sample
 
-This is a sample app for Google App Engine that excercises the [namespace manager Python API](https://cloud.google.com/appengine/docs/python/blobstore/).
+This is a sample app for Google App Engine that excercises the [namespace manager Python API](https://cloud.google.com/appengine/docs/python/multitenancy/multitenancy).
 
 See our other [Google Cloud Platform github
 repos](https://github.com/GoogleCloudPlatform) for sample applications and
