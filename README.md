@@ -1,4 +1,9 @@
 ## Multitenancy Using Namespaces Sample
+![status: inactive](https://img.shields.io/badge/status-inactive-red.svg)
+
+This project is no longer actively developed or maintained.  
+
+For new work on this check out [multitenancy example](https://github.com/GoogleCloudPlatform/python-docs-samples/tree/master/appengine/multitenancy)
 
 This is a sample app for Google App Engine that exercises the [namespace manager Python API](https://cloud.google.com/appengine/docs/python/multitenancy/multitenancy).
 
